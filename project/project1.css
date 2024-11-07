@@ -1,0 +1,32 @@
+nav{
+    font-size: 30px;
+    height: 40px;
+    background-color: rgb(78, 71, 71);
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#clr{
+    text-decoration: none;
+    color: white;
+}
+P{
+    font-size: 80px;
+    font-style: italic;
+
+}
+
+body{
+    background-color: antiquewhite;
+}
+img{
+    height: 60%;
+    width: 100%;
+}
+.footer{
+    display: grid;
+    grid-template-areas:'t t t';
+}
+.navbar{
+    word-spacing: 50px;
+}
